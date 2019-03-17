@@ -9,9 +9,11 @@ class App extends Component {
     aprRate: 0.0,
     legalName: "",
     trademarkID: "",
-    demoBankRate: 23.1
+    demoBankRate: 100.69
+    //test commit 1 with zak
   };
-  //test commit 1
+  // test commit 1
+  // test  commit 2
   componentDidMount() {
     axios
       .get(
