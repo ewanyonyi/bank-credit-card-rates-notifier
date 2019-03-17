@@ -12,6 +12,7 @@ class App extends Component {
         trademarkID: '',
         demoBankRate: 100.69
         //test commit 1 with zak
+        //test commit 2 with zak
     };
 
     componentDidMount() {
